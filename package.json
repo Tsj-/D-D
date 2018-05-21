@@ -1,0 +1,26 @@
+{
+  "name": "dd-grid",
+  "version": "0.1.0",
+  "description": "D&D grid behaviour",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsj-/D-D.git"
+  },
+  "author": "Thibault Ingargiola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsj-/D-D/issues"
+  },
+  "homepage": "https://github.com/Tsj-/D-D#readme",
+  "devDependencies": {
+    "electron": "^2.0.1"
+  },
+  "dependencies": {
+    "three.js": "^0.77.1"
+  }
+}
