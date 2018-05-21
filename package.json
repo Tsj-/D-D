@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Tsj-/D-D#readme",
   "devDependencies": {
-    "electron": "^2.0.1"
+    "electron": "^2.0.1",
+    "three-orbitcontrols": "^2.1.2"
   },
   "dependencies": {
     "three.js": "^0.77.1"
